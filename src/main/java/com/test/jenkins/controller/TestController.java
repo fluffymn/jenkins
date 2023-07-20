@@ -13,7 +13,7 @@ public class TestController {
 
 	@GetMapping("/")
 	public ResponseEntity<String> index(){
-		return ResponseEntity.ok("test");
+		return ResponseEntity.ok("test222");
 	}
 
 }
